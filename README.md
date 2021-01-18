@@ -1,6 +1,6 @@
 # React.js FAQ Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Basic FAQ page which is was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation and and Setup Instructions
 
