@@ -8,7 +8,7 @@ This project is a Basic FAQ page which is was bootstrapped with [Create React Ap
 
 Clone this Repository:
 
-`https://github.com/SAKET03/React-FAQ-page.git`
+`git clone https://github.com/SAKET03/React-FAQ-page.git`
 
 Change the Directory:
 
