@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-FAQ-page/static/css/main.ac6aa139.chunk.css",
+    "main.js": "/React-FAQ-page/static/js/main.d1b0ec49.chunk.js",
+    "main.js.map": "/React-FAQ-page/static/js/main.d1b0ec49.chunk.js.map",
+    "runtime-main.js": "/React-FAQ-page/static/js/runtime-main.023e4641.js",
+    "runtime-main.js.map": "/React-FAQ-page/static/js/runtime-main.023e4641.js.map",
+    "static/js/2.78f52c49.chunk.js": "/React-FAQ-page/static/js/2.78f52c49.chunk.js",
+    "static/js/2.78f52c49.chunk.js.map": "/React-FAQ-page/static/js/2.78f52c49.chunk.js.map",
+    "static/js/3.a3400fd4.chunk.js": "/React-FAQ-page/static/js/3.a3400fd4.chunk.js",
+    "static/js/3.a3400fd4.chunk.js.map": "/React-FAQ-page/static/js/3.a3400fd4.chunk.js.map",
+    "index.html": "/React-FAQ-page/index.html",
+    "static/css/main.ac6aa139.chunk.css.map": "/React-FAQ-page/static/css/main.ac6aa139.chunk.css.map",
+    "static/js/2.78f52c49.chunk.js.LICENSE.txt": "/React-FAQ-page/static/js/2.78f52c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.023e4641.js",
+    "static/js/2.78f52c49.chunk.js",
+    "static/css/main.ac6aa139.chunk.css",
+    "static/js/main.d1b0ec49.chunk.js"
+  ]
+}
